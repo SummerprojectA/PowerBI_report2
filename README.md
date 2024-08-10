@@ -77,7 +77,32 @@ We collaborated closely with an HR representative from AtliQ Technologies to und
 -  Work From Home (WFH) Trends:
 
    - **WFH Percentage**: The average WFH percentage across the dataset is 10.00%.
+
+      ![](average_wfh_image.png)
+
    - **WFH Trend by Day**: The "WFH % by Day" line chart highlights days with peaks in WFH activity, such as May 2022, where the WFH percentage reached 23.44%.
+ 
+      ![](wfh_chart_image.png)
+     
    - **Weekly WFH Patterns**: The table on the right side of the dashboard shows that Friday is the most common day for WFH, with an average of 13.01%. This insight helps HR understand potential patterns in 
       employee work preferences.
+
+- Sick Leave (SL) Analysis:
+
+   - **SL Percentage**: The overall SL percentage stands at 1.10%.
+
+      ![](average_sl_image.png)
      
+   - **SL Trend by Day**: The "SL % by Day" line chart depicts the frequency and pattern of sick leaves. For example, the percentage peaked at 3.80% in mid-June.
+     
+      ![](sl_chart_image.png)
+     
+   - **Weekly SL Patterns**: The analysis reveals that Monday has the highest average SL percentage at 1.62%, suggesting a potential trend of employees extending their weekends.
+     
+- Employee-Specific Insights:
+
+   - **High and Low Presence**: The dashboard table lists employees with varying presence percentages. Employees like Aditya Walls have a presence percentage of 93.33%, whereas others like Alexander Davenport 
+     have lower percentages.
+
+     
+   - **Performance Correlation**: This data allows HR to correlate individual presence with performance metrics, helping in performance reviews and targeted interventions.   
