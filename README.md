@@ -64,7 +64,9 @@ We collaborated closely with an HR representative from AtliQ Technologies to und
 
 - Employee Presence Tracking:
 
-  
+     Overall presence %               |     Daily presence trend
+  :---------------------------------: | :---------------------------------:
+  ![](average_presence_image.png)     |     ![](presence_chart_image.png)
   
    - **Overall Presence**: The dashboard shows an average presence of 91.83% across the selected months, indicating strong attendance overall.
    - **Daily Presence Trend**: The "Presence % by Day" line chart reveals fluctuations in daily attendance. Notable dips in presence can be observed around early May and mid-June, where the presence percentage 
