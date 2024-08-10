@@ -115,3 +115,11 @@ We collaborated closely with an HR representative from AtliQ Technologies to und
    - **SL and WFH Trends by Month**: The analysis shows that sick leaves and WFH patterns fluctuate, with May 2022 having the highest WFH percentage at 13.34%.
      
    - **Visualizing Trends**: A bar chart visualizes the distribution of video publications per month, helping HR identify any seasonal or monthly trends in employee attendance behaviors.
+
+## Recommendations to ATliq Technologies:
+
+   - Increase Flexibility on Fridays
+   - Investigate SL Trends on Mondays
+   - Plan Around Seasonal Trends
+
+    😎
