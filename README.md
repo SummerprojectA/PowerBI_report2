@@ -104,5 +104,14 @@ We collaborated closely with an HR representative from AtliQ Technologies to und
    - **High and Low Presence**: The dashboard table lists employees with varying presence percentages. Employees like Aditya Walls have a presence percentage of 93.33%, whereas others like Alexander Davenport 
      have lower percentages.
 
+     ![](employee_table_image.png)
      
-   - **Performance Correlation**: This data allows HR to correlate individual presence with performance metrics, helping in performance reviews and targeted interventions.   
+   - **Performance Correlation**: This data allows HR to correlate individual presence with performance metrics, helping in performance reviews and targeted interventions.
+
+- Month-over-Month Comparison:
+
+   - **Monthly Presence Comparison**: The dashboard provides month-over-month comparisons, showing that June 2022 had the highest average presence at 91.98%.
+    
+   - **SL and WFH Trends by Month**: The analysis shows that sick leaves and WFH patterns fluctuate, with May 2022 having the highest WFH percentage at 13.34%.
+     
+   - **Visualizing Trends**: A bar chart visualizes the distribution of video publications per month, helping HR identify any seasonal or monthly trends in employee attendance behaviors.
