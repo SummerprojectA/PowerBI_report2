@@ -1,4 +1,4 @@
-# HR Analytics Project
+# HR Analytics Project - ATliq Technologies
 ---
 
 ![](hr_analytics_intro.png)
